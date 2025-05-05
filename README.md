@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou estudando React, HTML e CSS
 - 📫 Como entrar em contato: Instagram: @montt_mg7 email: m1guelmonteiro10br@gmail.com
   
-- (Java | Javascript | HTML | CSS ) 🚀
+- ( HTML | CSS ) 🚀
 
 <div align="left">
   
