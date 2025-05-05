@@ -4,7 +4,7 @@
 
 - 👩‍💻 Cursando Desenvolvimento de sistemas no Senai Resende RJ
 - 🌱 Atualmente estou estudando React, HTML e CSS
-- 📫 Como entrar em contato: Instagram @montt_mg7
+- 📫 Como entrar em contato: Instagram: @montt_mg7 email: m1guelmonteiro10br@gmail.com
   
 - (Java | Javascript | HTML | CSS ) 🚀
 
